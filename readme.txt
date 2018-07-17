@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-fuck
+Git has a mutable index called storage.
